@@ -4,14 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1dd47849-321b-4337-8eb5-ff8fe3f10fad" name="Changes" comment="添加 博客 基础文件">
+    <list default="true" id="1dd47849-321b-4337-8eb5-ff8fe3f10fad" name="Changes" comment="添加 logo 标题栏">
       <change afterPath="$PROJECT_DIR$/.idea/haigangcoding.github.io.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vitepress/config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/public/my-logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vitepress/menu1Sidebar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vitepress/menu2Sidebar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vitepress/menu3Sidebar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/menu1/a.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/menu1/b.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/menu1/c.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/menu1/d.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/menu1/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/menu2/a.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/menu2/b.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/menu2/c.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/menu2/d.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/menu2/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/menu3/a.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/menu3/b.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/menu3/c.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/menu3/d.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/menu3/index.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vitepress/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vitepress/config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +75,14 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\haigangcoding.github.io\docs\.vitepress" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\haigangcoding.github.io\docs\public" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="docs:dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
@@ -87,7 +113,7 @@
       <workItem from="1666961811196" duration="707000" />
       <workItem from="1666967012988" duration="257000" />
       <workItem from="1666967294436" duration="41000" />
-      <workItem from="1666967345940" duration="3418000" />
+      <workItem from="1666967345940" duration="7565000" />
     </task>
     <task id="LOCAL-00001" summary="添加 忽略文件">
       <created>1666961375397</created>
@@ -103,7 +129,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666967432309</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="添加 logo 标题栏">
+      <created>1667046207698</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1667046207698</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,6 +157,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="添加 忽略文件" />
     <MESSAGE value="添加 博客 基础文件" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加 博客 基础文件" />
+    <MESSAGE value="添加 logo 标题栏" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加 logo 标题栏" />
   </component>
 </project>
