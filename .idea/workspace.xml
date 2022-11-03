@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1dd47849-321b-4337-8eb5-ff8fe3f10fad" name="Changes" comment="添加首页和测试页面">
-      <change afterPath="$PROJECT_DIR$/.idea/haigangcoding.github.io.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="1dd47849-321b-4337-8eb5-ff8fe3f10fad" name="Changes" comment="添加 yarn.lock 文件">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vitepress/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vitepress/config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +90,8 @@
       <workItem from="1666967012988" duration="257000" />
       <workItem from="1666967294436" duration="41000" />
       <workItem from="1666967345940" duration="10988000" />
-      <workItem from="1667478170779" duration="1601000" />
+      <workItem from="1667478170779" duration="2272000" />
+      <workItem from="1667480832182" duration="300000" />
     </task>
     <task id="LOCAL-00001" summary="添加 忽略文件">
       <created>1666961375397</created>
@@ -132,7 +128,21 @@
       <option name="project" value="LOCAL" />
       <updated>1667050884487</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="添加 首页 内容">
+      <created>1667480231720</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1667480231720</updated>
+    </task>
+    <task id="LOCAL-00007" summary="添加 yarn.lock 文件">
+      <created>1667480453667</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1667480453667</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -155,6 +165,8 @@
     <MESSAGE value="添加 博客 基础文件" />
     <MESSAGE value="添加 logo 标题栏" />
     <MESSAGE value="添加首页和测试页面" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加首页和测试页面" />
+    <MESSAGE value="添加 首页 内容" />
+    <MESSAGE value="添加 yarn.lock 文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加 yarn.lock 文件" />
   </component>
 </project>
