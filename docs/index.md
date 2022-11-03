@@ -1,11 +1,11 @@
 ---
 layout: home
 
-title: 飞叶网站
-titleTemplate: 写一些博客
+title: 海港的网站
+titleTemplate: 文档资料库
 
 hero:
-  name: 飞叶网站
+  name: 海港的网站
   text: 写点博客给你看
   tagline: 欢迎光临.
   actions:
