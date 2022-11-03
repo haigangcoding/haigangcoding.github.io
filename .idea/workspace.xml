@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1dd47849-321b-4337-8eb5-ff8fe3f10fad" name="Changes" comment="添加 yarn.lock 文件">
+    <list default="true" id="1dd47849-321b-4337-8eb5-ff8fe3f10fad" name="Changes" comment="添加 yarn-error.log 文件">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +60,17 @@
       <recent name="C:\Users\Administrator\Desktop\haigangcoding.github.io\docs\public" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="npm.docs:build">
+    <configuration name="docs:build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="docs:build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
     <configuration name="docs:dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -72,6 +83,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="npm.docs:build" />
         <item itemvalue="npm.docs:dev" />
       </list>
     </recent_temporary>
@@ -91,7 +103,7 @@
       <workItem from="1666967294436" duration="41000" />
       <workItem from="1666967345940" duration="10988000" />
       <workItem from="1667478170779" duration="2272000" />
-      <workItem from="1667480832182" duration="300000" />
+      <workItem from="1667480832182" duration="1037000" />
     </task>
     <task id="LOCAL-00001" summary="添加 忽略文件">
       <created>1666961375397</created>
@@ -142,7 +154,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667480453667</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="添加 yarn-error.log 文件">
+      <created>1667481314620</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1667481314620</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -167,6 +186,7 @@
     <MESSAGE value="添加首页和测试页面" />
     <MESSAGE value="添加 首页 内容" />
     <MESSAGE value="添加 yarn.lock 文件" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加 yarn.lock 文件" />
+    <MESSAGE value="添加 yarn-error.log 文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加 yarn-error.log 文件" />
   </component>
 </project>
