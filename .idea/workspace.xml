@@ -4,32 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1dd47849-321b-4337-8eb5-ff8fe3f10fad" name="Changes" comment="添加 logo 标题栏">
+    <list default="true" id="1dd47849-321b-4337-8eb5-ff8fe3f10fad" name="Changes" comment="添加首页和测试页面">
       <change afterPath="$PROJECT_DIR$/.idea/haigangcoding.github.io.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vitepress/menu1Sidebar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vitepress/menu2Sidebar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vitepress/menu3Sidebar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/menu1/a.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/menu1/b.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/menu1/c.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/menu1/d.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/menu1/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/menu2/a.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/menu2/b.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/menu2/c.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/menu2/d.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/menu2/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/menu3/a.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/menu3/b.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/menu3/c.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/menu3/d.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/menu3/index.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/.vitepress/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vitepress/config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,24 +38,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Administrator/Desktop/haigangcoding.github.io/docs/.vitepress",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "yarn",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Administrator/Desktop/haigangcoding.github.io/docs/.vitepress&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;yarn&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Administrator\Desktop\haigangcoding.github.io\docs\.vitepress" />
@@ -113,7 +94,8 @@
       <workItem from="1666961811196" duration="707000" />
       <workItem from="1666967012988" duration="257000" />
       <workItem from="1666967294436" duration="41000" />
-      <workItem from="1666967345940" duration="7565000" />
+      <workItem from="1666967345940" duration="10988000" />
+      <workItem from="1667478170779" duration="1601000" />
     </task>
     <task id="LOCAL-00001" summary="添加 忽略文件">
       <created>1666961375397</created>
@@ -136,7 +118,21 @@
       <option name="project" value="LOCAL" />
       <updated>1667046207698</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="添加首页和测试页面">
+      <created>1667050862652</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1667050862652</updated>
+    </task>
+    <task id="LOCAL-00005" summary="添加首页和测试页面">
+      <created>1667050884487</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1667050884487</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,6 +154,7 @@
     <MESSAGE value="添加 忽略文件" />
     <MESSAGE value="添加 博客 基础文件" />
     <MESSAGE value="添加 logo 标题栏" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加 logo 标题栏" />
+    <MESSAGE value="添加首页和测试页面" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加首页和测试页面" />
   </component>
 </project>
