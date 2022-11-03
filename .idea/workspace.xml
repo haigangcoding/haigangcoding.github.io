@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1dd47849-321b-4337-8eb5-ff8fe3f10fad" name="Changes" comment="添加 yarn-error.log 文件">
+    <list default="true" id="1dd47849-321b-4337-8eb5-ff8fe3f10fad" name="Changes" comment="改变首页">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vitepress/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vitepress/config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +103,7 @@
       <workItem from="1666967294436" duration="41000" />
       <workItem from="1666967345940" duration="10988000" />
       <workItem from="1667478170779" duration="2272000" />
-      <workItem from="1667480832182" duration="1037000" />
+      <workItem from="1667480832182" duration="1550000" />
     </task>
     <task id="LOCAL-00001" summary="添加 忽略文件">
       <created>1666961375397</created>
@@ -161,7 +161,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667481314620</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="改变首页">
+      <created>1667482094914</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1667482094914</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -187,6 +194,7 @@
     <MESSAGE value="添加 首页 内容" />
     <MESSAGE value="添加 yarn.lock 文件" />
     <MESSAGE value="添加 yarn-error.log 文件" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加 yarn-error.log 文件" />
+    <MESSAGE value="改变首页" />
+    <option name="LAST_COMMIT_MESSAGE" value="改变首页" />
   </component>
 </project>
