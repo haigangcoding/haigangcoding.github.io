@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1dd47849-321b-4337-8eb5-ff8fe3f10fad" name="Changes" comment="改变首页">
+    <list default="true" id="1dd47849-321b-4337-8eb5-ff8fe3f10fad" name="Changes" comment="修改 config.js base:'/docs/'">
+      <change afterPath="$PROJECT_DIR$/deploy.sh" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vitepress/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vitepress/config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +60,7 @@
       <recent name="C:\Users\Administrator\Desktop\haigangcoding.github.io\docs\public" />
     </key>
   </component>
-  <component name="RunManager" selected="npm.docs:build">
+  <component name="RunManager" selected="npm.docs:dev">
     <configuration name="docs:build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -83,8 +83,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="npm.docs:build" />
         <item itemvalue="npm.docs:dev" />
+        <item itemvalue="npm.docs:build" />
       </list>
     </recent_temporary>
   </component>
@@ -103,7 +103,7 @@
       <workItem from="1666967294436" duration="41000" />
       <workItem from="1666967345940" duration="10988000" />
       <workItem from="1667478170779" duration="2272000" />
-      <workItem from="1667480832182" duration="1550000" />
+      <workItem from="1667480832182" duration="1937000" />
     </task>
     <task id="LOCAL-00001" summary="添加 忽略文件">
       <created>1666961375397</created>
@@ -168,7 +168,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667482094914</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="修改 config.js base:'/docs/'">
+      <created>1667482452705</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1667482452705</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -195,6 +202,7 @@
     <MESSAGE value="添加 yarn.lock 文件" />
     <MESSAGE value="添加 yarn-error.log 文件" />
     <MESSAGE value="改变首页" />
-    <option name="LAST_COMMIT_MESSAGE" value="改变首页" />
+    <MESSAGE value="修改 config.js base:'/docs/'" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改 config.js base:'/docs/'" />
   </component>
 </project>
