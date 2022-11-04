@@ -60,7 +60,7 @@
       <recent name="C:\Users\Administrator\Desktop\haigangcoding.github.io\docs\public" />
     </key>
   </component>
-  <component name="RunManager" selected="npm.docs:dev">
+  <component name="RunManager" selected="npm.docs:build">
     <configuration name="docs:build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -83,8 +83,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="npm.docs:dev" />
         <item itemvalue="npm.docs:build" />
+        <item itemvalue="npm.docs:dev" />
       </list>
     </recent_temporary>
   </component>

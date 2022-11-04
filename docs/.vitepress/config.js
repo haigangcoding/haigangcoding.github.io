@@ -36,7 +36,7 @@ export default {
 
         footer: {
             message: 'Released under the MIT License.',
-            copyright: 'Copyright © 2022-present feiye'
+            copyright: 'Copyright © 2022-present 海港 Code'
         },
     }
 }
