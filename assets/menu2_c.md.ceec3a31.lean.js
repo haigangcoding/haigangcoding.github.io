@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a}from"./app.cd6368e4.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"menu2/c.md"}'),c={name:"menu2/c.md"};function r(n,o,s,p,_,m){return a(),t("div")}const f=e(c,[["render",r]]);export{i as __pageData,f as default};
